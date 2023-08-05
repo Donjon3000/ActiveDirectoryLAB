@@ -43,21 +43,29 @@ Now we can start setting up our vitrual machine
 
 ![create vm](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/d40330ed-6bfb-43f5-ae86-118fc868e35c)
 
+click install system later
 
+![install later](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/74c73357-5c50-49b6-8a3a-5e9f4b8f7c42)
 
+next click windows and then scroll down and select windows server 2019
 
+![vm 2019](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/e665f565-3de2-4719-ab6d-d2f54743f017)
 
+you can change the name of the server if you want to if not click next
 
+![name whatever](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/cfab5b33-0ef5-4841-a448-02551c2e24db)
 
+Have this set to split disk into mulitple files
 
+![click next](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/33c804e1-f69b-4765-bf95-f2869b2bfc99)
 
+CLick customize hardware and select new CD/DVD. select use new iso file and browse to your downloads and selected the windows 2019 iso the you dowladed earlier. click close and finish after your done
 
+![hardware](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/e65a00e8-a5ea-4670-8d26-decf82d7380f)
 
+now we can power up the VM by right clicking the windows server 2019 icon at the top left corner or simply clicking the power on button
 
-
-
-
-
+![start machine](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/b00f679a-72ff-4e6b-872e-ff5623b93e87)
 
 
 
