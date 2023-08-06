@@ -83,6 +83,63 @@ Then select Role based installation
 
 ![role based](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/7832420b-9ddb-4f42-a199-93cb374e6850)
 
+click actvie directory services and clcick next then click add features
+
+![domain](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/97cf2d7c-5e83-4a0d-8e3a-2bcf41ba8dc2)
+
+click the install button once done dont click the close out button and instead click promote this server to a new domain controller
+
+![dont click](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/596d44d0-1643-48e6-944d-be3a7e5a5be3)
+
+Then select add new forest and name the doamin whatever you like
+
+![AD local](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/7bb174e4-b47d-4196-8b54-db1de6d31eab)
+
+then select the forest funcitonal level which will be windows 2016. create a password and make sure unclick then DNS option
+
+![DC](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/851de2c0-cbdd-49ed-b364-64891702af2d)
+
+then click next for the addtional options and click next for the defaults aswell
+
+![additional options](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/77355bab-0a2c-41a7-bb6a-9a5ffa5f5bdb)
+
+before installing the system will make sure you meet all the prerequistes. Once you see the green check mark you can click install
+
+![pre check](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/33e2b670-2080-4a0b-8429-e7e961240342)
+
+Once you hit install the VM will sign you out and will begin to restart. When you log back in you will see the domain name added with your admin user. thats how you know that the installation process worked
+
+![new sign in](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/ca293eca-42ac-48f0-954b-fbfb020c66f3)
+
+We have now successfully installed active directory on our virtual machine. Now got the tools and select Active Directory users and computers and you can see the domain name for out lab
+
+![AD local 2](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/472f1d75-5ec7-4d8c-802c-56d2e47a14f1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
