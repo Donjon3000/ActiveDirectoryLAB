@@ -115,7 +115,7 @@ We have now successfully installed active directory on our virtual machine. Now 
 
 ![AD local 2](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/472f1d75-5ec7-4d8c-802c-56d2e47a14f1)
 
-
+Now we can with the basics of active directory.The first thing we can do is create and Organizational Unit. 
 
 
 
