@@ -67,13 +67,21 @@ now we can power up the VM by right clicking the windows server 2019 icon at the
 
 ![start machine](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/b00f679a-72ff-4e6b-872e-ff5623b93e87)
 
+Now we can start setting up our windows virtual machine
 
+![create new VM](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/b250ddc4-474e-4a13-8a9f-680141a5894f)
 
+once you log in the the server manager should pop up 
 
+![windows server](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/445a2f9b-1f38-4cb1-8f76-7de617f86560)
 
+click on manage and then click add roles and feats
 
+![roles and feats](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/1f5b5084-5d83-4c96-b4f6-61b43d3a189d)
 
+Then select Role based installation 
 
+![role based](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/7832420b-9ddb-4f42-a199-93cb374e6850)
 
 
 
