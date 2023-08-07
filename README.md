@@ -143,27 +143,37 @@ Fill out the first and last name sections and create a unique user. Then click n
 
 ![active user](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/5c8dacab-7264-4f03-9f5b-e1b0afcf5def)
 
+Next we will create different groups in active directory. CLick security groups then Right click IT OU then select new then select group and we will name this Domain Admin
 
+![new IT group](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/5eac1d1e-e3f4-47c9-8acf-1a9d48b289e4)
 
+Now lets practice finding a user in active directory by right clicking the Admin OU and click find
 
+![find](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/765c53bc-b0b3-40fb-b7b9-2368e312868d)
 
+type in the name of the user that you are looking for 
 
+![find user](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/057bdc3a-f3cc-44ce-902f-4e7f32b7cf59)
 
+let add a user to a security group. by doing the same process as before but now click memeber of and then click add. then type the group you want the user to be apart example will type HR new hire
 
+![new  HR](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/a9ab5045-7573-4543-82cf-b3ca7d618ab2)
 
+you can also remove a user from a group as well
 
+![add or remove](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/5f641a6c-2e56-4c78-9eb4-f7c3da1af1ff)
 
+Now will practice enabling and disabling users accounts. go back to Admin folder and find the user then right click the user name then select move then put the user in the termedniated folder
 
+![term folder](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/9fbea204-d58e-425d-b1b9-eb1d16fb9c62)
 
+Then right click the user and select disable. and if you need to enable the account again just simply right click the user and select enable
 
+![disable](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/a9644779-f256-4e79-a796-f6620445006f)
 
+if you need reset a users password just right click the user and select reset password and give them a temporary password
 
-
-
-
-
-
-
+![reset password](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/d077660f-3674-46c2-94dc-10d6d1a57324)
 
 
 
