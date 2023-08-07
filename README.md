@@ -135,10 +135,13 @@ Now will make even more OUs insides the OUs we just made before. For Computer cr
 
 ![more OUs](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/221a7071-1aa3-4db3-b7a6-aff465ba2af6)
 
+Next we can create Users inside and OU. Click the OU User then right click it then select New then select user.
 
+![new user](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/133ea53f-f5c5-4f7b-a135-05a8d70eaa0a)
 
+Fill out the first and last name sections and create a unique user. Then click next and create a password. Then click next and finish
 
-
+![active user](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/5c8dacab-7264-4f03-9f5b-e1b0afcf5def)
 
 
 
