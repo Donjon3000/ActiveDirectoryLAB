@@ -131,8 +131,9 @@ It should look like this when done
 
 ![multi OUs](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/21e55f73-1bc0-44d1-9eef-5a4c715315a0)
 
+Now will make even more OUs insides the OUs we just made before. For Computer create Server and Workstations. For Users create Accounting , HR , Engineering , Sales and Termed (stands for terminated). For Security Group create Payroll , IT , Onboarding , Contracts and Sales.
 
-
+![more OUs](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/221a7071-1aa3-4db3-b7a6-aff465ba2af6)
 
 
 
