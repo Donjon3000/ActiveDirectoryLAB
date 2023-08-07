@@ -115,13 +115,21 @@ We have now successfully installed active directory on our virtual machine. Now 
 
 ![AD local 2](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/472f1d75-5ec7-4d8c-802c-56d2e47a14f1)
 
-Now we can with the basics of active directory.The first thing we can do is create and Organizational Unit. 
+Now we can with the basics of active directory.The first thing we can do is create and Organizational Unit. first click on the ADdomain then right click it. select new then select Organizational Unit.
 
+![OU](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/b98d1073-1c6e-42a3-975e-eadaa8501555)
 
+You can name the OU whatever you want it to be I decicded to name mine locations.
 
+![OU in OU](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/731ab8c4-8d26-4d15-89ef-6f837974b406)
 
+We can also create an OU inside an OU. Click the location OU and make sure its highlighted. Then click the yellow folder with the orange star. Where going to create four different OUs under the location OU. In this order create a computer, Distribution Group , users , and Security Group.
 
+![Computer OU](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/cfcd2eba-b60c-4d1a-9124-8dc5b35f013b)
 
+It should look like this when done
+
+![multi OUs](https://github.com/Donjon3000/NessusTenableLab/assets/140426313/21e55f73-1bc0-44d1-9eef-5a4c715315a0)
 
 
 
