@@ -8,12 +8,12 @@ In this walkthrough we will be going through the process of installing an config
 
 
 <h2>Languages and Utilities Used</h2>
-
+VM Player workstation Active Directory
 
 
 <h2>Environments Used </h2>
 
-- <b></b> 
+Kali Linux <b></b> 
 
 <h2>Program walk-through:</h2>
 
