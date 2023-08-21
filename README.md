@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-
+In this walkthrough we will be going through the process of installing an configurinfg Active Directory on a virtural machine and implement basic parctices that are used in a work enviorment.
 <br />
 
 
